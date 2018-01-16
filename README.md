@@ -1,3 +1,3 @@
 # minecraft-bash-launcher
-Minecraft Launcher originally written in bash after reverse-engeneering the minecraft auth protocall from the wiki info. Includes little JSON parser from somewhere on the internet (forget where/who I got it from, sorry!)
+Minecraft Launcher I wrote in bash a long time ago. not exactly sure how it works anymore. It's limited to legacy auth, and can't download anything required to run the game, only starting an existing legacy install.
 
